@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.7.0.72
+face_recognition>=1.3.0
+numpy>=1.23.0
+python -m streamlit run "A:\SELF course\PROJECTS\Interactive_learning\Interactive_learning\G.py"
